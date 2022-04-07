@@ -83,8 +83,4 @@ section {
     grid-row: 2/5;
 
 }
-.info {
-    background-color: aquamarine;
-    grid-row: 5;
-    grid-column: 1/6;
-}
+
